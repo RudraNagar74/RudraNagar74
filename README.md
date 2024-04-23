@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RudraNagar74
+- 👋 Hi, I’m Rudra Nagar
 - 👀 I’m interested in gaining various skills
 - 🌱 I’m currently learning Coding 
 - 💞️ I’m looking to collaborate on ...
